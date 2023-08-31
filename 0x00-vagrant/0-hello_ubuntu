@@ -1,0 +1,2 @@
+ssh <username>@<vm_ip>
+uname
